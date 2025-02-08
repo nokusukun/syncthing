@@ -1,4 +1,4 @@
-# File Sync Tool
+# Syncthing
 
 A simple and secure file synchronization tool that allows you to host and sync files using Cloudflare R2 storage.
 
